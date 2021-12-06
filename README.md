@@ -1,1 +1,2 @@
 # Cricket-Data-Analysis-Prediction
+This Project contains the results of the analysis of previous 464 cricket matches of the Indian Premier League. Preprocessed and Analyzed ball to ball data of previous 464 cricket matches of Indian Premier League and visualized the results. Analyzed the factors affecting a cricket match and developed a machine learning model to predict the outcome of a match with 89% accuracy
